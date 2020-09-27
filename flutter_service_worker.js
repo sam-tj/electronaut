@@ -6,7 +6,7 @@ const RESOURCES = {
   "assets/AssetManifest.json": "3600f98cdcd88bfd1900dd50f41256fe",
 "assets/FontManifest.json": "580ff1a5d08679ded8fcf5c6848cece7",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/NOTICES": "4c3f6cb2cebae9bdd4b564fa29ea39b5",
+"assets/NOTICES": "346090fdda8ab0f2d4f9aedc4730771b",
 "assets/packages/flutter_inappwebview/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
 "assets/packages/flutter_inappwebview/t_rex_runner/t-rex.html": "16911fcc170c8af1c5457940bd0bf055",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -14,7 +14,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "0be213362d87eee231857ee922ed7518",
 "/": "0be213362d87eee231857ee922ed7518",
-"main.dart.js": "fc202d109088e7e456d4da2419a14957",
+"main.dart.js": "a4dc69fe2db65bb4527b0a5875802472",
 "manifest.json": "1d01cc00b30be88149f52bd312d5ea39"
 };
 
