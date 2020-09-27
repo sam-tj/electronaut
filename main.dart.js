@@ -29440,20 +29440,20 @@ K.S4.prototype={
 $1:function(a){var s=this.a,r=s.a
 if(!$.zm.as(0,r.toLowerCase()))return"Username not exists"
 if($.zm.h(0,r.toLowerCase())!=s.b)return"Password does not match"
-$.a7n=C.c.aa(r,0,C.c.it(r,"@"))
+$.a7n=C.c.aa(r.toLowerCase(),0,C.c.it(r,"@"))
 $.LS=!0
 return null},
 $S:62}
 K.S3.prototype={
 $1:function(a){var s=this.a,r=s.a
 if(!$.zm.as(0,r.toLowerCase())){$.zm.q(0,r.toLowerCase(),s.b)
-$.a7n=C.c.aa(r,0,C.c.it(r,"@"))
+$.a7n=C.c.aa(r.toLowerCase(),0,C.c.it(r,"@"))
 $.LS=!0
 return null}if($.zm.h(0,r.toLowerCase())!=s.b)return"Already a user"
 return null},
 $S:62}
 K.S5.prototype={
-$1:function(a){if(!$.zm.as(0,this.a))return"Username not exists"
+$1:function(a){if(!$.zm.as(0,this.a.toLowerCase()))return"Username not exists"
 return null},
 $S:62}
 K.S6.prototype={
