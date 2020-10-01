@@ -1,11 +1,11 @@
 {
-    "name": "electronaut",
-    "short_name": "electronaut",
+    "name": "Electronaut",
+    "short_name": "Electronaut",
     "start_url": ".",
-    "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "display": "minimal-ui",
+    "background_color": "#FFFFB74D",
+    "theme_color": "#FFFFB74D",
+    "description": "Lets learn Electronics",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
